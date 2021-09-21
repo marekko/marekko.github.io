@@ -1,2 +1,0 @@
-# marekko.github.io
-website
